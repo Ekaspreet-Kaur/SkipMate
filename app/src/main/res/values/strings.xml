@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SkipMate</string>
+    <string name="accessibility_description">SkipMate reads YouTube\'s screen layout to detect and tap the Skip Ad button automatically. It only activates when a skippable ad is playing.</string>
+</resources>
